@@ -1,0 +1,34 @@
+# El jardín de las delicias (claro). Cada color procede de un pigmento de la
+# pintura de El Bosco y está ajustado para leerse sobre el fondo (WCAG 4,5:1).
+mode = "light"
+
+accent = "#0f71a1"
+selection = "#c9d6a8"
+selection_foreground = "#1d2214"
+muted = "#798068"
+
+background = "#e8efd2"
+dark_background = "#e1e8c9"
+darker_background = "#d9e1bf"
+lighter_background = "#dde4c4"
+
+foreground = "#1d2214"
+dark_foreground = "#5f6355"
+light_foreground = "#2c3220"
+bright_foreground = "#1d2214"
+
+red = "#ab3b37"
+yellow = "#6c6212"
+orange = "#a14610"
+green = "#556917"
+cyan = "#2b6a76"
+blue = "#0e6894"
+magenta = "#a43e58"
+brown = "#855828"
+
+bright_red = "#ca5b57"
+bright_yellow = "#8a7e18"
+bright_green = "#6e871e"
+bright_cyan = "#378897"
+bright_blue = "#1185bd"
+bright_magenta = "#c15e77"
